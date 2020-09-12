@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  vitrina.tv.test
+
+  Created by Vyacheslav Vakulenko on 12.09.2020.
+  Copyright © 2020 nyacheslav. All rights reserved.
+*/
+
+// Main List
+"main_list_title" = "Главный список";
+"main_list_time_interval" = "%@ - %@";
+"main_list_move_path" = "%@ -> %@";
+"main_list_move_estimate_time" = "Через %@";
+
+"main_detail_event_title" = "Событие";
+"main_detail_notice_title" = "Уведомление";
+"main_detail_move_title" = "Движение";

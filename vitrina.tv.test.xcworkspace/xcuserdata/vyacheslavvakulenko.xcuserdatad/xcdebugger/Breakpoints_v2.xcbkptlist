@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2286A31F-7794-4A2D-BD1C-ABC84970CE95"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FE8313ED-8799-4D18-B733-DE35764C65AD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "vitrina.tv.test/Modules/MainList/View/MainListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "init(responderDelegate:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FE8313ED-8799-4D18-B733-DE35764C65AD - 9e2295bbb6a66e07"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "default argument 0 of vitrina_tv_test.MainListView.init(delegate: Swift.Optional&lt;vitrina_tv_test.MainListViewResponderDelegate&gt;) -&gt; vitrina_tv_test.MainListView"
+                  moduleName = "vitrina.tv.test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vyacheslavvakulenko/Documents/vitrina.tv.test/vitrina.tv.test/Modules/MainList/View/MainListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "8">
+               </Location>
+               <Location
+                  uuid = "FE8313ED-8799-4D18-B733-DE35764C65AD - e96f62cdc593fa9f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "vitrina_tv_test.MainListView.__allocating_init(delegate: Swift.Optional&lt;vitrina_tv_test.MainListViewResponderDelegate&gt;) -&gt; vitrina_tv_test.MainListView"
+                  moduleName = "vitrina.tv.test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vyacheslavvakulenko/Documents/vitrina.tv.test/vitrina.tv.test/Modules/MainList/View/MainListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "43">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
